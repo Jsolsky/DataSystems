@@ -1,0 +1,10 @@
+,observation_id,observation_condition,observation_temp_c,observation_daytime,observation_wind_kph,observation_gust_kph,observation_wind_direction,observation_humidity,observation_pressure_mb,observation_cloudy,observation_UV
+0,1,Partly cloudy,24.0,1,25.9,25.9,NNE,54,1021.0,50,6.0
+1,2,Sunny,28.9,1,40.0,40.0,NNW,28,1015.0,13,7.0
+2,3,Sunny,20.8,1,9.4,9.4,NNE,36,1020.0,10,6.0
+3,4,Partly cloudy,25.0,1,16.9,16.9,N,32,1021.0,50,7.0
+4,5,Clear,17.2,0,9.0,9.0,SW,75,1013.0,0,1.0
+5,6,Sunny,24.6,1,18.7,18.7,NNW,36,1019.0,16,6.0
+6,7,Partly cloudy,24.0,1,16.9,16.9,NE,54,1022.0,50,6.0
+7,8,Sunny,25.0,1,20.9,20.9,NE,51,1021.0,0,7.0
+8,9,Partly cloudy,24.0,1,16.9,16.9,NE,54,1022.0,50,6.0

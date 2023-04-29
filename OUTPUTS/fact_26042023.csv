@@ -1,0 +1,10 @@
+,fact_id,location_id,observation_id,time_id,forecast_id
+0,1,Sydney,1,1,
+1,2,Broken%20Hill,2,1,
+2,3,Goulburn,3,1,
+3,4,Dubbo,4,1,
+4,5,Orange,5,1,
+5,6,Wagga%20Wagga,6,1,
+6,7,Maitland,7,1,
+7,8,Wollongong,8,1,
+8,9,Cessnock,9,1,
